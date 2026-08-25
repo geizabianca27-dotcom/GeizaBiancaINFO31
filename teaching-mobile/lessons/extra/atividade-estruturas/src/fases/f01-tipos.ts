@@ -1,0 +1,12 @@
+/**
+ * F01 — Valores, tipos e TypeScript
+ * Edite somente os TODOs deste arquivo.
+ * Verificação: npm run check
+ */
+export const nome: string = "Ana";
+
+// TODO F01-A02
+export const idade: number = 17;
+
+// TODO F01-A03
+export const entregouAtividade: boolean = true;
